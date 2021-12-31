@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\obj\Debug\FR-LuuVanDat.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\obj\Debug\FR-LuuVanDat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\bin\Debug\FR-LuuVanDat.exe.config
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\bin\Debug\FR-LuuVanDat.exe
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\bin\Debug\FR-LuuVanDat.pdb
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\bin\Debug\HelloWord.exe
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\bin\Debug\HelloWord.pdb
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\bin\Debug\HelloWord.exe.config
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\obj\Debug\FR-LuuVanDat.csproj.CopyComplete
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\obj\Debug\FR-LuuVanDat.exe
+C:\Users\Admin\Documents\NTQ\FR-LuuVanDat\FR-LuuVanDat\obj\Debug\FR-LuuVanDat.pdb
